@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">start</string>
+    <string name="enter">確定</string>
+    <string name="smallname">小名:</string>
+    <string name="name">姓名:</string>
+    <string name="sex">性別:</string>
+    <string name="old">年紀:</string>
+    <string name="number">病歷號碼:</string>
+    <string name="input">name</string>
+
+</resources>
