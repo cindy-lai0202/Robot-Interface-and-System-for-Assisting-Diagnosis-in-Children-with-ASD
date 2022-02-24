@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ASDScale</string>
+    <string name="title">行為評估量表</string>
+    <string name="app1">1.打招呼喚名</string>
+    <string name="app2">2.覆誦語句</string>
+    <string name="app3">3.問問題</string>
+    <string name="app4">4.水果測驗</string>
+    <string name="app5">5.唱歌跳舞</string>
+    <string name="app6">6.泡泡遊戲</string>
+    <string name="app7">7.沙鈴遊戲</string>
+    <string name="button">確認</string>
+    <string name="finish">完成</string>
+    <string name="ID">病例代碼:</string>
+    <string name="name">對喚名有反應</string>
+    <string name="Focus">專注程度</string>
+    <string name="Participation">參與程度</string>
+    <string name="communication">口語溝通功能(模仿)</string>
+    <string name="Cognition">認知功能</string>
+    <string name="bigaction">知覺動作功能(粗大動作)</string>
+    <string name="no">沒有</string>
+    <string name="soso">一般</string>
+    <string name="yes">有</string>
+    <string name="again">輸入其他病患資訊</string>
+    <string name="out">完成</string>
+</resources>

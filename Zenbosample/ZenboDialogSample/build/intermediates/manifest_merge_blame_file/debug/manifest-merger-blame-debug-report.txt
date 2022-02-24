@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.asus.zenbodialogsample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:5:5-27:19
+12        android:allowBackup="true"
+12-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:8:9-41
+17        android:supportsRtl="true"
+17-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:9:9-35
+18        android:testOnly="true"
+19        android:theme="@style/RobotDevTheme" >
+19-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:10:9-45
+20        <meta-data
+20-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:12:9-105
+21            android:name="zenbo_ds_domainuuid"
+21-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:12:20-54
+22            android:value="0E88AA3DAC9A4F4DA2C2142BFF5007D0" />
+22-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:12:55-103
+23        <meta-data
+23-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:13:9-108
+24            android:name="zenbo_ds_version_0E88AA3DAC9A4F4DA2C2142BFF5007D0"
+24-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:13:20-84
+25            android:value="0.0.1" />
+25-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:13:85-106
+26        <meta-data
+26-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:14:9-96
+27            android:name="zenbo_ds_package"
+27-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:14:20-51
+28            android:value="com.asus.zenbodialogsample" />
+28-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:14:52-94
+29
+30        <activity android:name="com.asus.zenbodialogsample.ZenboDialogSample" >
+30-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:16:9-26:20
+30-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:16:19-52
+31            <intent-filter>
+31-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:17:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:18:17-69
+32-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:18:25-66
+33
+34                <category android:name="com.asus.intent.category.ZENBO" />
+34-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:19:17-75
+34-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:19:27-72
+35                <category android:name="com.asus.intent.category.ZENBO_LAUNCHER" />
+35-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:20:17-84
+35-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:20:27-81
+36
+37                <!-- please comment out the following line when you want to launch to Zenbo App Store -->
+38                <!-- See Zenbo Developer Web: Zenbo-SDK-Getting-Started: Important notes on Zenbo APP developing -->
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:24:17-77
+39-->D:\zenbo project\Zenbo code\ZenboDialogSample\src\main\AndroidManifest.xml:24:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <meta-data
+43-->[com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\3c25d949127361693c3996e6817a65c8\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+44            android:name="android.support.VERSION"
+44-->[com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\3c25d949127361693c3996e6817a65c8\appcompat-v7-26.1.0\AndroidManifest.xml:27:13-51
+45            android:value="26.1.0" />
+45-->[com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\3c25d949127361693c3996e6817a65c8\appcompat-v7-26.1.0\AndroidManifest.xml:28:13-35
+46        <meta-data
+46-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\c0fa89e2fe47ee55a9f37cece79b22a6\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+47            android:name="android.arch.lifecycle.VERSION"
+47-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\c0fa89e2fe47ee55a9f37cece79b22a6\runtime-1.0.0\AndroidManifest.xml:26:13-58
+48            android:value="27.0.0-SNAPSHOT" />
+48-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\c0fa89e2fe47ee55a9f37cece79b22a6\runtime-1.0.0\AndroidManifest.xml:27:13-44
+49    </application>
+50
+51</manifest>

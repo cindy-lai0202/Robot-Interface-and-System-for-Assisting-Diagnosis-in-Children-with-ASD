@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">button</string>
+    <string name="sayhi">1.打招呼</string>
+    <string name="repeat">2.重複語句</string>
+    <string name="askquestion">3.問問題</string>
+    <string name="fruittest">4.水果測驗</string>
+    <string name="dance">5.小星星跳舞</string>
+    <string name="buble">6.泡泡遊戲</string>
+    <string name="shalin">7.沙鈴遊戲</string>
+    <string name="input">name</string>
+</resources>

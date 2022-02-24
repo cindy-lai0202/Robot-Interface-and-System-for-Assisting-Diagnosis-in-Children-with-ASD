@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44522588117",
+    "project_id": "autotakepic-and-upload",
+    "storage_bucket": "autotakepic-and-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522588117:android:71db8ba93a24f20c605f5c",
+        "android_client_info": {
+          "package_name": "com.example.autotakepic_and_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522588117-2ts8lahqjalo0iqianv67433u6u675ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr7weYmX8j_5fDe0ovZNZCavj3GW_RX4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522588117-2ts8lahqjalo0iqianv67433u6u675ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

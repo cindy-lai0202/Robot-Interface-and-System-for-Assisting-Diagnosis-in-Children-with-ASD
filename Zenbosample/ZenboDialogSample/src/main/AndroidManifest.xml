@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.asus.zenbodialogsample">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/RobotDevTheme">
+
+        <meta-data android:name="zenbo_ds_domainuuid" android:value="0E88AA3DAC9A4F4DA2C2142BFF5007D0"/>
+        <meta-data android:name="zenbo_ds_version_0E88AA3DAC9A4F4DA2C2142BFF5007D0" android:value="0.0.1"/>
+        <meta-data android:name="zenbo_ds_package" android:value="com.asus.zenbodialogsample"/>
+
+        <activity android:name=".ZenboDialogSample">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.asus.intent.category.ZENBO" />
+                <category android:name="com.asus.intent.category.ZENBO_LAUNCHER" />
+
+                <!-- please comment out the following line when you want to launch to Zenbo App Store -->
+                <!-- See Zenbo Developer Web: Zenbo-SDK-Getting-Started: Important notes on Zenbo APP developing -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999595516622",
+    "project_id": "camera2demo-master",
+    "storage_bucket": "camera2demo-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999595516622:android:09fca322cb785e8056669f",
+        "android_client_info": {
+          "package_name": "com.qugengting.camera2demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999595516622-kiaa0en5r0acgl045f1p807to9qsi33c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGHSZlKt4q8SKC1JEU14SERqvOmn-VYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999595516622-kiaa0en5r0acgl045f1p807to9qsi33c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Sun Mar 21 14:54:23 CST 2021
+base.0=D\:\\zenbo project\\android-Camera2Video-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

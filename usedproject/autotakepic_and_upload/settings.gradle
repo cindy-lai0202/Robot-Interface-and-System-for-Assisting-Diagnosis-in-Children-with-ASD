@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "autotakepic_and_upload"

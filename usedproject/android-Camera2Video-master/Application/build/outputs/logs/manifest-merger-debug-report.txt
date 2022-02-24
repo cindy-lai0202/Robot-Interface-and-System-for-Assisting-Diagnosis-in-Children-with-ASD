@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\696f70ad01109755e48656fa97702849\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\48c3dc8cf2e1e0ac32693ba27b4ab2c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\79215290604a51219d4150494205faeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\59a40f38ebcaf4a5843df331ee369ace\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a908312afb55cc5fdd80eba2bd965a05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\cfba98825f88ad8a5f3cd4c30d60a418\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3f55aea2ad70eb04a21331a2beb1d9aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ee84c74befe75bf953a64396090eebbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\91d3ea60d2a0d5a940a7bb2ded9f3480\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\b3e916ec0d8d6781b299eb8d81b55ed7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\61c15eb317d8ec905c606aeccca00e1d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\16dde53d64a8bed394de0b7fde79ebf9\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:18:5-47
+	android:versionName
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:28:5-41:19
+	android:label
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:31:9-45
+activity#com.example.android.camera2video.CameraActivity
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:33:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\696f70ad01109755e48656fa97702849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\696f70ad01109755e48656fa97702849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\48c3dc8cf2e1e0ac32693ba27b4ab2c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\48c3dc8cf2e1e0ac32693ba27b4ab2c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\79215290604a51219d4150494205faeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\79215290604a51219d4150494205faeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\59a40f38ebcaf4a5843df331ee369ace\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\59a40f38ebcaf4a5843df331ee369ace\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a908312afb55cc5fdd80eba2bd965a05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a908312afb55cc5fdd80eba2bd965a05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\cfba98825f88ad8a5f3cd4c30d60a418\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\cfba98825f88ad8a5f3cd4c30d60a418\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3f55aea2ad70eb04a21331a2beb1d9aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3f55aea2ad70eb04a21331a2beb1d9aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ee84c74befe75bf953a64396090eebbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ee84c74befe75bf953a64396090eebbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\91d3ea60d2a0d5a940a7bb2ded9f3480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\91d3ea60d2a0d5a940a7bb2ded9f3480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\b3e916ec0d8d6781b299eb8d81b55ed7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\b3e916ec0d8d6781b299eb8d81b55ed7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\61c15eb317d8ec905c606aeccca00e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\61c15eb317d8ec905c606aeccca00e1d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\16dde53d64a8bed394de0b7fde79ebf9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ken\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\16dde53d64a8bed394de0b7fde79ebf9\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		ADDED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\zenbo project\android-Camera2Video-master\Application\src\main\AndroidManifest.xml

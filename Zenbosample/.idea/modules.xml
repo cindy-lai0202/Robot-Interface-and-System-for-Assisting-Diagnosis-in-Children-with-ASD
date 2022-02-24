@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zenbo_code.iml" filepath="$PROJECT_DIR$/.idea/modules/Zenbo_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RobotActivityLibrary/Zenbo_code.RobotActivityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/RobotActivityLibrary/Zenbo_code.RobotActivityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RobotDevSample/Zenbo_code.RobotDevSample.iml" filepath="$PROJECT_DIR$/.idea/modules/RobotDevSample/Zenbo_code.RobotDevSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RobotSensorSample/Zenbo_code.RobotSensorSample.iml" filepath="$PROJECT_DIR$/.idea/modules/RobotSensorSample/Zenbo_code.RobotSensorSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZenboDialogSample/Zenbo_code.ZenboDialogSample.iml" filepath="$PROJECT_DIR$/.idea/modules/ZenboDialogSample/Zenbo_code.ZenboDialogSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZenboGoToLocation/Zenbo_code.ZenboGoToLocation.iml" filepath="$PROJECT_DIR$/.idea/modules/ZenboGoToLocation/Zenbo_code.ZenboGoToLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZenboHelloWorld/Zenbo_code.ZenboHelloWorld.iml" filepath="$PROJECT_DIR$/.idea/modules/ZenboHelloWorld/Zenbo_code.ZenboHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZenboSDK/Zenbo_code.ZenboSDK.iml" filepath="$PROJECT_DIR$/.idea/modules/ZenboSDK/Zenbo_code.ZenboSDK.iml" />
+    </modules>
+  </component>
+</project>

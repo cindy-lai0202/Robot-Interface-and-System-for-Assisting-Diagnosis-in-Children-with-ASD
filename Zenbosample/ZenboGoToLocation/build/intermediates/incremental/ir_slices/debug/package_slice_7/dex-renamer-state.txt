@@ -1,0 +1,4 @@
+#Thu Oct 22 17:16:48 CST 2020
+base.0=D\:\\zenbo project\\Zenbo code\\ZenboGoToLocation\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

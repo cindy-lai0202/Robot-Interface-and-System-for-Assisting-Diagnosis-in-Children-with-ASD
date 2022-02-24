@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "891257818268",
+    "project_id": "bubble2-69574",
+    "storage_bucket": "bubble2-69574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891257818268:android:737032cc9fedea9ec77159",
+        "android_client_info": {
+          "package_name": "com.example.bubble2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891257818268-27l4mhhdqs4c1leok7on1kihjs5m7qj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDp-n6avb3YGW_L-f8sS0nPlggmdbnFVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891257818268-27l4mhhdqs4c1leok7on1kihjs5m7qj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891257818268:android:1bb371a48f69efaac77159",
+        "android_client_info": {
+          "package_name": "com.example.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891257818268-27l4mhhdqs4c1leok7on1kihjs5m7qj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDp-n6avb3YGW_L-f8sS0nPlggmdbnFVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891257818268-27l4mhhdqs4c1leok7on1kihjs5m7qj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

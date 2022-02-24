@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:17:1-31:12
+MERGED from [:RobotActivityLibrary] D:\zenbo project\Zenbo code\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\cbdfd5f5087e56bbca3b5f0168405950\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\b9bc8182ddda7ff8db13b7301bd594fc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4c354e4e14f557c4e1fade5ba6a9e355\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\5de0155b43c4efe9f8f8d7d15198a921\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\800fd1af7f80e2821ff0f4182bbd0a46\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4cb0299b4af1d02a5d501643420a1203\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\393334808f845fade10c83efcf747304\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\9c3db77b0401f05127cad2ea17d32ad1\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:6:22-69
+application
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:9:5-27:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:25:5-29:19
+MERGED from [:RobotActivityLibrary] D:\zenbo project\Zenbo code\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:RobotActivityLibrary] D:\zenbo project\Zenbo code\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\cbdfd5f5087e56bbca3b5f0168405950\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\cbdfd5f5087e56bbca3b5f0168405950\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\b9bc8182ddda7ff8db13b7301bd594fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\b9bc8182ddda7ff8db13b7301bd594fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4c354e4e14f557c4e1fade5ba6a9e355\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4c354e4e14f557c4e1fade5ba6a9e355\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\5de0155b43c4efe9f8f8d7d15198a921\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\5de0155b43c4efe9f8f8d7d15198a921\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\800fd1af7f80e2821ff0f4182bbd0a46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\800fd1af7f80e2821ff0f4182bbd0a46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4cb0299b4af1d02a5d501643420a1203\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4cb0299b4af1d02a5d501643420a1203\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\393334808f845fade10c83efcf747304\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\393334808f845fade10c83efcf747304\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\9c3db77b0401f05127cad2ea17d32ad1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\9c3db77b0401f05127cad2ea17d32ad1\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:9:18-44
+	android:theme
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:13:9-45
+activity#com.asus.zenbogotolocation.MainActivity
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:15:9-25:20
+	android:name
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.asus.intent.category.ZENBO+category:name:com.asus.intent.category.ZENBO_LAUNCHER
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:16:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:17:25-66
+category#com.asus.intent.category.ZENBO
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:18:17-75
+	android:name
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:18:27-72
+category#com.asus.intent.category.ZENBO_LAUNCHER
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:19:17-84
+	android:name
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:19:27-81
+category#android.intent.category.LAUNCHER
+ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:21:5-23:78
+MERGED from [:RobotActivityLibrary] D:\zenbo project\Zenbo code\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:RobotActivityLibrary] D:\zenbo project\Zenbo code\RobotActivityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\cbdfd5f5087e56bbca3b5f0168405950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\cbdfd5f5087e56bbca3b5f0168405950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\b9bc8182ddda7ff8db13b7301bd594fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\b9bc8182ddda7ff8db13b7301bd594fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4c354e4e14f557c4e1fade5ba6a9e355\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4c354e4e14f557c4e1fade5ba6a9e355\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\5de0155b43c4efe9f8f8d7d15198a921\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\5de0155b43c4efe9f8f8d7d15198a921\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\800fd1af7f80e2821ff0f4182bbd0a46\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\800fd1af7f80e2821ff0f4182bbd0a46\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4cb0299b4af1d02a5d501643420a1203\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4cb0299b4af1d02a5d501643420a1203\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\393334808f845fade10c83efcf747304\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\393334808f845fade10c83efcf747304\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\9c3db77b0401f05127cad2ea17d32ad1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\9c3db77b0401f05127cad2ea17d32ad1\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+		ADDED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+		INJECTED from D:\zenbo project\Zenbo code\ZenboGoToLocation\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\cbdfd5f5087e56bbca3b5f0168405950\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\cbdfd5f5087e56bbca3b5f0168405950\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\b9bc8182ddda7ff8db13b7301bd594fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\b9bc8182ddda7ff8db13b7301bd594fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4c354e4e14f557c4e1fade5ba6a9e355\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4c354e4e14f557c4e1fade5ba6a9e355\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\5de0155b43c4efe9f8f8d7d15198a921\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\5de0155b43c4efe9f8f8d7d15198a921\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\800fd1af7f80e2821ff0f4182bbd0a46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\800fd1af7f80e2821ff0f4182bbd0a46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4cb0299b4af1d02a5d501643420a1203\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\4cb0299b4af1d02a5d501643420a1203\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\393334808f845fade10c83efcf747304\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\393334808f845fade10c83efcf747304\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\9c3db77b0401f05127cad2ea17d32ad1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\9c3db77b0401f05127cad2ea17d32ad1\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\7f607009b11445972e18903e23d1b4a0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ken\.gradle\caches\transforms-2\files-2.1\f91e3ce24aaf9d7670b5f010cdd4ab52\AndroidManifest.xml:26:13-58

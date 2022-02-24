@@ -1,0 +1,4 @@
+#Thu Oct 22 17:15:25 CST 2020
+base.0=D\:\\zenbo project\\Zenbo code\\RobotSensorSample\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

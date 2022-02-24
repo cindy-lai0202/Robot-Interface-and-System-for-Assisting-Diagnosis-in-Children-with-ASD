@@ -1,0 +1,4 @@
+include ':ZenboSDK'
+include ':RobotActivityLibrary'
+include ':app'
+rootProject.name = "littlestar"

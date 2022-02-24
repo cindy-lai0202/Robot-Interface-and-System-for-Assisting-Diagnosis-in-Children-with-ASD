@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="362dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewproject">
+
+        <RadioButton
+            android:id="@+id/RadioBtn1"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/no" />
+
+        <RadioButton
+            android:id="@+id/RadioBtn2"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/soso" />
+
+        <RadioButton
+            android:id="@+id/RadioBtn3"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/yes" />
+
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/radioGroup2"
+        android:layout_width="362dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewproject2">
+
+        <RadioButton
+            android:id="@+id/RadioBtn4"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/no" />
+
+        <RadioButton
+            android:id="@+id/RadioBtn5"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/soso" />
+
+        <RadioButton
+            android:id="@+id/RadioBtn6"
+            android:layout_width="116dp"
+            android:layout_height="wrap_content"
+            android:text="@string/yes" />
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/radioGroup3"
+        android:layout_width="362dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewproject3">
+
+        <RadioButton
+            android:id="@+id/RadioBtn7"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/no" />
+
+
+        <RadioButton
+            android:id="@+id/RadioBtn8"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/soso" />
+
+        <RadioButton
+            android:id="@+id/RadioBtn9"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="@string/yes" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textViewproject3"
+        android:layout_width="146dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/Participation"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup2" />
+
+    <TextView
+        android:id="@+id/textViewproject2"
+        android:layout_width="146dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/Focus"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+    <TextView
+        android:id="@+id/textViewproject"
+        android:layout_width="250dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/communication"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textviewname" />
+
+    <TextView
+        android:id="@+id/textviewname"
+        android:layout_width="0dp"
+        android:layout_height="103dp"
+        android:gravity="center"
+        android:text="@string/app2"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="60dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.025" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="167dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup3" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
